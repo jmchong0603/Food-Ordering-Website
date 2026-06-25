@@ -3,6 +3,8 @@
 
 YUMMY here, an online food ordering system (OFOS) to streamline the basic process of ordering your favorite food.
 
+# View screenshot on (Screenshot Web.doc)
+
 ## Table of Contents
 
 - [Overview](#overview)
